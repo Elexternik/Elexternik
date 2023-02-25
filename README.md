@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elexternik
 - 👀 I’m interested in IOS developing
-- 🌱 I’m currently learning swift, JS, Python, HTML, CSS.
+- 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on IOS app
 - 📫 How to reach me paladwins@icloud.com
 
