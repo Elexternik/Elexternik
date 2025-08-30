@@ -10,7 +10,6 @@
 
 
 ## 🌱 В чём я сейчас разбираюсь
-Support engineering
-DevOps
-DevSecOps/AppSec
-
+Support engineering;
+DevOps;
+DevSecOps/AppSec;
